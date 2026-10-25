@@ -1246,7 +1246,7 @@ const BODY = String.raw`
   </header>
 
   <div id="tuneIntro" class="tview intro">
-    <p>Pick the sound on your piano, then let the app listen to each key.</p>
+    <p>Pick the sound on your piano, then let the app listen to each key. Xylophone is the most in tune.</p>
     <div class="voices">
       <button class="vbig" data-tvoice="piano"><span class="badge piano"></span>Piano</button>
       <button class="vbig" data-tvoice="xylo"><span class="badge xylo"></span>Xylophone</button>

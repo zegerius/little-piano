@@ -15,6 +15,9 @@ the right key. Live at <https://little-piano.aram.workers.dev/>.
   work too.
 - **Tuning wizard.** You play each key once so the app learns what your piano sounds like,
   whatever the room or batteries.
+
+  > **Tip:** use the toy's **xylophone** sound. It's the only one where all 8 keys are
+  > really in tune. On the other sounds some keys are off, so songs sound wrong.
 - **On-screen keys** with piano and xylophone sounds, for when the real piano isn't nearby.
 - **Preview.** Each song card can play its whole song back.
 - **Printable cards.** Pick songs to print as A6 cards, four to an A4 sheet, by AirPrint or
