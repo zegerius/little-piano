@@ -1,0 +1,10 @@
+{
+  "name": "little-piano",
+  "main": "worker.js",
+  "compatibility_date": "2026-10-01",
+  "workers_dev": true,
+  "preview_urls": false,
+  // The page script is serialised with Function#toString; esbuild's name
+  // helpers (__name) would leak into it and break in the browser.
+  "keep_names": false
+}
