@@ -1,11 +1,15 @@
-# Little Piano Songbook
+<img src="docs/banner.png" alt="Little Piano: a play-along songbook for the Hape × Baby Einstein Magic Touch Piano" width="100%">
+
+<p align="center"><a href="https://little-piano.aram.workers.dev/"><b>Open Little Piano</b></a></p>
 
 A play-along songbook for the **Hape × Baby Einstein Magic Touch Piano**, the wooden
 toy piano with 8 coloured keys.
 
 Pick a song and the score scrolls by, with each note in the colour and number of its key.
 Play the toy piano and the phone listens through its microphone, then moves on when you hit
-the right key. Live at <https://little-piano.aram.workers.dev/>.
+the right key.
+
+<img src="docs/screens.png" alt="Four iPhone screens: the songbook, playing along to Twinkle Twinkle, tuning key 4, and picking songs to print" width="100%">
 
 ## Features
 
@@ -25,6 +29,8 @@ the right key. Live at <https://little-piano.aram.workers.dev/>.
 - **Installable** on the home screen as a PWA, and it works offline once loaded. The screen
   stays on while you play.
 - Built for iPhone in portrait and landscape.
+
+<img src="docs/more.png" alt="Ode to Joy in landscape with the full 8-key piano, and an A4 sheet of four printed song cards" width="100%">
 
 ## How it's built
 
